@@ -11,7 +11,7 @@ var bg = "sunrise.png";
 var bg2 = "sunset.png" 
 
 function preload() {
-backgroundImg= loadImage("sprites/sunset.png")
+backgroundImg= loadImage("sunset.png")
 getBackgroundImg();    
 }
 
